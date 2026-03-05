@@ -51,7 +51,7 @@ export default function LoginPage() {
       <div className="hidden lg:flex lg:w-1/2 relative bg-gradient-to-br from-green-900 to-green-800">
         <Image
           src="/images/800px-Agriculture_in_Vietnam_with_farmers.jpg"
-          alt="SoilSmart Agriculture - Sustainable Farming"
+          alt="SoilNara Agriculture - Sustainable Farming"
           fill
           className="object-cover"
           priority
@@ -64,7 +64,7 @@ export default function LoginPage() {
           <div className="w-20 h-20 bg-white/20 rounded-full flex items-center justify-center mb-6 backdrop-blur-sm">
             <GiPlantSeed className="text-white text-4xl" />
           </div>
-          <h2 className="text-4xl font-bold mb-4 text-center">SoilSmart</h2>
+          <h2 className="text-4xl font-bold mb-4 text-center">SoilNara</h2>
           <p className="text-xl text-green-50 text-center max-w-md">Empowering farmers with smart soil management technology</p>
         </div>
       </div>

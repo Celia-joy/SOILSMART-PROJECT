@@ -50,7 +50,7 @@ const Objectives = () => {
             {t('objectives.badge')}
           </div>
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold font-display text-gray-900 mb-3 sm:mb-4">
-            <span className="text-gradient">SoilSmart</span> {t('objectives.title').replace('SoilSmart ', '')}
+            <span className="text-gradient">SoilNara</span> {t('objectives.title').replace('SoilSmart ', '')}
           </h2>
           <p className="text-sm sm:text-base md:text-lg text-gray-600 max-w-3xl mx-auto mt-3 sm:mt-4">
             {t('objectives.subtitle')}

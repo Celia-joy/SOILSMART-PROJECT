@@ -28,8 +28,8 @@ jobs:
       - name: Build project
         run: npm run build
         env:
-          NEXT_PUBLIC_APP_NAME: SoilSmart
-          NEXT_PUBLIC_APP_URL: https://soilsm-web.vercel.app
+          NEXT_PUBLIC_APP_NAME: SoilNara
+          NEXT_PUBLIC_APP_URL: https://soilnara.vercel.app
 
       - name: Deploy to Vercel (Production)
         if: github.ref == 'refs/heads/main'

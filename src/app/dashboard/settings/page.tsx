@@ -675,7 +675,7 @@ export default function SettingsPage() {
                   {/* Send Feedback */}
                   <div className="p-4 sm:p-6 border border-gray-200 rounded-lg hover:shadow-md transition-shadow">
                     <h3 className="font-semibold text-gray-900 text-sm sm:text-base mb-2">Send Feedback</h3>
-                    <p className="text-sm text-gray-600 mb-4">Help us improve SoilSmart</p>
+                    <p className="text-sm text-gray-600 mb-4">Help us improve SoilNara</p>
                     <button className="w-full px-4 py-2 bg-[#16a34a] hover:bg-[#15803d] text-white font-medium rounded-lg transition-all text-sm sm:text-base">
                       Share feedback
                     </button>

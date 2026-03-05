@@ -97,7 +97,7 @@ const DashboardLayout = ({ children }: DashboardLayoutProps) => {
               <GiPlantSeed className="text-[#16a34a] text-xl sm:text-2xl" />
             </div>
             <span className="text-lg sm:text-xl font-bold font-display text-white">
-              SoilSmart
+              SoilNara
             </span>
           </Link>
           <button

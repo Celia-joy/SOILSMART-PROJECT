@@ -16,7 +16,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'SoilSmart - Smart Agricultural Technology for Sustainable Farming',
+  title: 'SoilNara - Smart Agricultural Technology for Sustainable Farming',
   description: 'Empowering African farmers with affordable, data-driven tools for soil health monitoring, smart irrigation, and AI-powered agricultural guidance.',
   keywords: 'agriculture, soil health, smart farming, IoT sensors, sustainable farming, Africa',
   authors: [{ name: 'Echo Solutions Ltd' }],
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     apple: '/favicon.svg',
   },
   openGraph: {
-    title: 'SoilSmart - Smart Agricultural Technology',
+    title: 'SoilNara - Smart Agricultural Technology',
     description: 'Data-driven tools for sustainable farming and soil health management',
     type: 'website',
   },

@@ -96,8 +96,8 @@
   "whyChooseUs": {
     "aboutUs": "About us",
     "title": "Why choose us?",
-    "description1": "Soilsmart began with a simple idea: what if the soil itself could guide the farmer?",
-    "description2": "We saw the immense economic and community burden created billowed to make soil health visible, actionable, and accessible — even next knowledge.",
+    "description1": "SoilNara began with a simple idea: what if the soil itself could guide the farmer?",
+    "description2": "We saw the immense economic and community burden created to make soil health visible, actionable, and accessible — even without prior knowledge.",
     "description3": "From local hubs to global partnerships, we're building tools that empower smallholder farmers to save water, grow more, and protect their land for the next generation.",
     "sustainability": "Sustainability",
     "sustainabilityDesc": "We bring the long-term health and resource balance",
@@ -110,7 +110,7 @@
   },
   "objectives": {
     "badge": "Our Solution",
-    "title": "SoilSmart Objectives",
+    "title": "SoilNara Objectives",
     "subtitle": "Closing the gap with affordable, data-driven tools for sustainable and effective soil management",
     "monitorSoilHealth": "Monitor Soil Health",
     "monitorSoilHealthDesc": "Real-time monitoring using affordable sensors.",
@@ -120,7 +120,7 @@
     "aiPoweredGuidanceDesc": "Intelligent recommendations for optimal farming.",
     "mobileApp": "Mobile App",
     "mobileAppDesc": "Access all features on-the-go with offline support.",
-    "joinFarmers": "Join 10,000+ farmers already using SoilSmart"
+    "joinFarmers": "Join 10,000+ farmers already using SoilNara"
   },
   "features": {
     "title": "Explore our wide range of services",
@@ -141,7 +141,7 @@
     "getStartedToday": "Get Started Today"
   },
   "howItWorks": {
-    "title": "How SoilSmart Works",
+    "title": "How SoilNara Works",
     "subtitle": "Get started in four simple steps and transform your farming practices",
     "step1": "Sign Up & Install Sensors",
     "step1Desc": "Create your account and install affordable IoT sensors in your farm fields.",
@@ -155,7 +155,7 @@
   },
   "mobileApp": {
     "badge": "Mobile App",
-    "title": "Download SoilSmart Mobile App",
+    "title": "Download SoilNara Mobile App",
     "description": "Take your farming management on the go. Monitor soil health, receive AI recommendations, and connect with the farming community—all from your mobile device.",
     "realTimeMonitoring": "Real-time soil monitoring",
     "offlineMode": "Offline mode support",
@@ -360,11 +360,11 @@
     "search": "Search",
     "activeNow": "Active now",
     "selectConversation": "Select a conversation to start chatting",
-    "messagePlaceholder": "Message SoilSmart AI",
+    "messagePlaceholder": "Message SoilNara AI",
     "today": "TODAY"
   },
   "aiChat": {
-    "title": "SoilSmart AI Chat",
+    "title": "SoilNara AI Chat",
     "subtitle": "Your soil's daily story, powered by smart sensors.",
     "whatCanIHelp": "What can I help with?"
   },
@@ -438,7 +438,7 @@
     "unreadCount_plural": "{{count}} unread notifications"
   },
   "login": {
-    "title": "SoilSmart",
+    "title": "SoilNara",
     "subtitle": "Login",
     "email": "Email",
     "password": "Password",
@@ -449,7 +449,7 @@
     "enterYourPassword": "Enter your password"
   },
   "signup": {
-    "title": "SoilSmart",
+    "title": "SoilNara",
     "subtitle": "Sign up",
     "email": "Email",
     "phone": "Phone number",

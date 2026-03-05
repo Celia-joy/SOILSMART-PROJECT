@@ -1,8 +1,8 @@
-export const APP_NAME = 'SoilSmart'
+export const APP_NAME = 'SoilNara'
 export const APP_DESCRIPTION = 'Smart Agricultural Technology for Sustainable Farming'
 
 export const CONTACT = {
-  email: 'info@soilsmart.com',
+  email: 'info@soilnara.com',
   phone: '+250 123 456 789',
   address: 'Kigali, Rwanda',
 }

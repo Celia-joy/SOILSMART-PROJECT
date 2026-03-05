@@ -1,7 +1,7 @@
 {
-  "name": "soilsmart-web",
+  "name": "soilnara-web",
   "version": "1.0.0",
-  "description": "SoilSmart - Data-driven agricultural technology platform for sustainable farming",
+  "description": "SoilNara - Data-driven agricultural technology platform for sustainable farming",
   "private": true,
   "scripts": {
     "dev": "next dev",

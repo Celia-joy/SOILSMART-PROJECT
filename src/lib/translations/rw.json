@@ -110,7 +110,7 @@
   },
   "objectives": {
     "badge": "Ibisubizo Byacu",
-    "title": "Intego za SoilSmart",
+    "title": "Intego za SoilNara",
     "subtitle": "Gufunga icyuho ukoresheje ibikoresho byoroshye by'ubwoba byo gukomeza no gukomeza ubutaka",
     "monitorSoilHealth": "Gukurikirana Ubwoba bw'Ubutaka",
     "monitorSoilHealthDesc": "Gukurikirana mu gihe cy'ukuri ukoresheje senseri zoroshye.",
@@ -120,7 +120,7 @@
     "aiPoweredGuidanceDesc": "Inama z'ubwoba zo guhinga neza.",
     "mobileApp": "Porogaramu ya Telefoni",
     "mobileAppDesc": "Kugera ku bikoresho byose ugiye ukoresheje telefoni yawe nta interineti.",
-    "joinFarmers": "Jya mu bahinzi 10,000+ bakoresha SoilSmart"
+    "joinFarmers": "Jya mu bahinzi 10,000+ bakoresha SoilNara"
   },
   "features": {
     "title": "Reba Serivisi Zacu Zose",
@@ -141,7 +141,7 @@
     "getStartedToday": "Tangira Uyu munsi"
   },
   "howItWorks": {
-    "title": "SoilSmart Ikora Ite?",
+    "title": "SoilNara Ikora Ite?",
     "subtitle": "Tangira mu nzira enye zoroshye kandi uhindure uburyo bwawe bwo guhinga",
     "step1": "Kwiyandikisha no Gushyiramo Senseri",
     "step1Desc": "Kora konti yawe kandi ushyiremo senseri zoroshye za IoT mu mirima yawe.",
@@ -155,7 +155,7 @@
   },
   "mobileApp": {
     "badge": "Porogaramu ya Telefoni",
-    "title": "Kuramo Porogaramu ya Telefoni ya SoilSmart",
+    "title": "Kuramo Porogaramu ya Telefoni ya SoilNara",
     "description": "Gucunga ubuhinzi bwawe ugiye. Kurikirana ubwoba bw'ubutaka, kwakira inama za AI, no guhuza n'umuryango w'abahinzi — byose ugiye ukoresheje telefoni yawe.",
     "realTimeMonitoring": "Kurikirana ubutaka mu gihe cy'ukuri",
     "offlineMode": "Gukoresha nta interineti",
@@ -360,11 +360,11 @@
     "search": "Shakisha",
     "activeNow": "Bikora ubu",
     "selectConversation": "Hitamo ikiganiro kugira ngo utangire kuvugana",
-    "messagePlaceholder": "Ohereza Ubutumwa SoilSmart AI",
+    "messagePlaceholder": "Ohereza Ubutumwa SoilNara AI",
     "today": "UYU MUNSI"
   },
   "aiChat": {
-    "title": "Kuvugana na SoilSmart AI",
+    "title": "Kuvugana na SoilNara AI",
     "subtitle": "Inkuru y'ubutaka bwawe buri munsi, ikoresha senseri z'ubwoba.",
     "whatCanIHelp": "Nshobora gufasha iki?"
   },
@@ -438,7 +438,7 @@
     "unreadCount_plural": "Amatangazo {{count}} adasomwe"
   },
   "login": {
-    "title": "SoilSmart",
+    "title": "SoilNara",
     "subtitle": "Injira",
     "email": "Imeyili",
     "password": "Ijambo ry'Ibanga",
@@ -449,7 +449,7 @@
     "enterYourPassword": "Injiza ijambo ry'ibanga ryawe"
   },
   "signup": {
-    "title": "SoilSmart",
+    "title": "SoilNara",
     "subtitle": "Kwiyandikisha",
     "email": "Imeyili",
     "phone": "Nomero ya Telefoni",

@@ -1,10 +1,10 @@
-# SoilSmart Web Application
+# SoilNara Web Application
 
-![SoilSmart Logo](https://img.shields.io/badge/SoilSmart-Agricultural%20Technology-green)
+![SoilNara Logo](https://img.shields.io/badge/SoilNara-Agricultural%20Technology-green)
 
-## 🌱 About SoilSmart
+## 🌱 About SoilNara
 
-SoilSmart is an innovative agricultural technology platform designed to help farmers across Africa manage soil health more effectively and sustainably. Our solution addresses declining soil fertility, poor irrigation practices, and limited access to modern agricultural guidance through affordable, data-driven tools.
+SoilNara is an innovative agricultural technology platform designed to help farmers across Africa manage soil health more effectively and sustainably. Our solution addresses declining soil fertility, poor irrigation practices, and limited access to modern agricultural guidance through affordable, data-driven tools.
 
 ## 🎯 Key Features
 

@@ -96,7 +96,7 @@
   "whyChooseUs": {
     "aboutUs": "À propos de nous",
     "title": "Pourquoi nous choisir?",
-    "description1": "Soilsmart a commencé avec une idée simple: et si le sol lui-même pouvait guider l'agriculteur?",
+    "description1": "SoilNara a commencé avec une idée simple: et si le sol lui-même pouvait guider l'agriculteur?",
     "description2": "Nous avons vu l'immense fardeau économique et communautaire créé pour rendre la santé des sols visible, actionnable et accessible — même sans connaissances préalables.",
     "description3": "Des hubs locaux aux partenariats mondiaux, nous construisons des outils qui permettent aux petits exploitants agricoles d'économiser l'eau, de produire plus et de protéger leurs terres pour la prochaine génération.",
     "sustainability": "Durabilité",
@@ -110,7 +110,7 @@
   },
   "objectives": {
     "badge": "Notre Solution",
-    "title": "Objectifs SoilSmart",
+    "title": "Objectifs SoilNara",
     "subtitle": "Combler l'écart avec des outils abordables basés sur les données pour une gestion durable et efficace des sols",
     "monitorSoilHealth": "Surveiller la Santé du Sol",
     "monitorSoilHealthDesc": "Surveillance en temps réel à l'aide de capteurs abordables.",
@@ -120,7 +120,7 @@
     "aiPoweredGuidanceDesc": "Recommandations intelligentes pour une agriculture optimale.",
     "mobileApp": "Application Mobile",
     "mobileAppDesc": "Accédez à toutes les fonctionnalités en déplacement avec support hors ligne.",
-    "joinFarmers": "Rejoignez plus de 10 000 agriculteurs utilisant déjà SoilSmart"
+    "joinFarmers": "Rejoignez plus de 10 000 agriculteurs utilisant déjà SoilNara"
   },
   "features": {
     "title": "Découvrez notre large gamme de services",
@@ -141,7 +141,7 @@
     "getStartedToday": "Commencer Aujourd'hui"
   },
   "howItWorks": {
-    "title": "Comment SoilSmart Fonctionne",
+    "title": "Comment SoilNara Fonctionne",
     "subtitle": "Commencez en quatre étapes simples et transformez vos pratiques agricoles",
     "step1": "S'inscrire et Installer les Capteurs",
     "step1Desc": "Créez votre compte et installez des capteurs IoT abordables dans vos champs agricoles.",
@@ -155,7 +155,7 @@
   },
   "mobileApp": {
     "badge": "Application Mobile",
-    "title": "Télécharger l'Application Mobile SoilSmart",
+    "title": "Télécharger l'Application Mobile SoilNara",
     "description": "Prenez la gestion de votre agriculture en déplacement. Surveillez la santé du sol, recevez des recommandations IA et connectez-vous à la communauté agricole — le tout depuis votre appareil mobile.",
     "realTimeMonitoring": "Surveillance du sol en temps réel",
     "offlineMode": "Support mode hors ligne",
@@ -360,11 +360,11 @@
     "search": "Rechercher",
     "activeNow": "Actif maintenant",
     "selectConversation": "Sélectionnez une conversation pour commencer à discuter",
-    "messagePlaceholder": "Message SoilSmart AI",
+    "messagePlaceholder": "Message SoilNara AI",
     "today": "AUJOURD'HUI"
   },
   "aiChat": {
-    "title": "Chat IA SoilSmart",
+    "title": "Chat IA SoilNara",
     "subtitle": "L'histoire quotidienne de votre sol, alimentée par des capteurs intelligents.",
     "whatCanIHelp": "En quoi puis-je vous aider?"
   },
@@ -438,7 +438,7 @@
     "unreadCount_plural": "{{count}} notifications non lues"
   },
   "login": {
-    "title": "SoilSmart",
+    "title": "SoilNara",
     "subtitle": "Connexion",
     "email": "Email",
     "password": "Mot de passe",
@@ -449,7 +449,7 @@
     "enterYourPassword": "Entrez votre mot de passe"
   },
   "signup": {
-    "title": "SoilSmart",
+    "title": "SoilNara",
     "subtitle": "S'inscrire",
     "email": "Email",
     "phone": "Numéro de téléphone",

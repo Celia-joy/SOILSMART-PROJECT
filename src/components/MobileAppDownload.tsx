@@ -118,7 +118,7 @@ const MobileAppDownload = () => {
                           <GiPlantSeed className="text-white text-xl" />
                         </div>
                         <div>
-                          <h3 className="text-base font-bold text-gray-900">SoilSmart</h3>
+                          <h3 className="text-base font-bold text-gray-900">SoilNara</h3>
                           <p className="text-xs text-gray-500">{t('dashboard.title')}</p>
                         </div>
                       </div>
