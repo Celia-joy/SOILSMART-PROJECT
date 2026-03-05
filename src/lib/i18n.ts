@@ -9,11 +9,15 @@ export const localeNames: Record<Locale, string> = {
   fr: 'Français',
 }
 
-// Translation files - using require for JSON imports
+// Translation files - importing JSON directly
+import enTranslations from './translations/en.json'
+import rwTranslations from './translations/rw.json'
+import frTranslations from './translations/fr.json'
+
 const translations: Record<Locale, any> = {
-  en: require('./translations/en.json'),
-  rw: require('./translations/rw.json'),
-  fr: require('./translations/fr.json'),
+  en: enTranslations,
+  rw: rwTranslations,
+  fr: frTranslations,
 }
 
 export function getTranslations(locale: Locale = defaultLocale) {

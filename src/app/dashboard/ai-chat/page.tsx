@@ -53,7 +53,7 @@ export default function AIChatPage() {
       }
     }
     
-    return aiResponses['default']
+    return aiResponses['default'] || "I understand you're asking about farm management. Could you be more specific? I can help with: soil analysis, irrigation scheduling, fertilizer recommendations, pest control, crop selection, or weather-based advice."
   }
 
   const handleSend = () => {

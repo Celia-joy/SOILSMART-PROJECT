@@ -168,7 +168,7 @@ export default function CommunityPage() {
                         author: user.name || 'You',
                         time: 'Just now',
                         content: postContent,
-                        image: selectedImage || undefined,
+                        ...(selectedImage && { image: selectedImage }),
                         likes: 0,
                         comments: 0,
                       }

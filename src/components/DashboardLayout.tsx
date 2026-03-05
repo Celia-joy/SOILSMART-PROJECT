@@ -18,6 +18,13 @@ import {
 import { GiPlantSeed } from 'react-icons/gi'
 import { useTranslation } from '@/hooks/useTranslation'
 
+interface User {
+  email: string
+  name: string
+  id: number
+  phone?: string
+}
+
 interface DashboardLayoutProps {
   children: React.ReactNode
 }
@@ -26,7 +33,7 @@ const DashboardLayout = ({ children }: DashboardLayoutProps) => {
   const pathname = usePathname()
   const router = useRouter()
   const [sidebarOpen, setSidebarOpen] = useState(false)
-  const [user, setUser] = useState<any>(null)
+  const [user, setUser] = useState<User | null>(null)
 
   useEffect(() => {
     // Check if user is logged in
